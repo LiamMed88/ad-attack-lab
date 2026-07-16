@@ -32,7 +32,3 @@ Construir un entorno de AD vulnerable (GOAD), atacarlo de forma metódica y docu
 ## 📋 Metodología
 
 Cada attack path sigue la misma estructura: contexto → enumeración → explotación → evidencia → mapeo ATT&CK → remediación. Ver [`docs/lab-setup.md`](docs/lab-setup.md) para el despliegue del entorno.
-
-## ⚠️ Disclaimer
-
-Lab educativo desplegado en entorno aislado y controlado. Todas las técnicas se ejecutan exclusivamente sobre infraestructura propia.
